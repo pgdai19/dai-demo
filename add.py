@@ -6,3 +6,6 @@ print(f"The sum is: {z}")
 
 z = x * y
 print(f"The Mul is: {z}")
+
+z = x - y
+print(f"The sub is: {z}")
